@@ -13,71 +13,66 @@ Education
 2015-2017
 :   **Master's Degree**; Western Governors University (Salt Lake City, UT)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Master of Education in Teaching English*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2007-2009
+:   **Bachelor of Arts**;  Southern Utah University (Cedar City, UT)
 
-    *Minor: Awesomeology*
+    *Major: English*
+
+2005-2007
+:   **Associate of Science**;  College of Eastern Utah (Price, UT)
+
+    *Major: English*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**English Teacher | San Juan High School (2021 - Present):**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Responsibilities:
 
-* First item
+- Planning and teaching lessons aligned with the Utah State Core curriculum. 
+- Grading student assignments. 
+- Corresponding with parents. 
+- Collaborating with staff, faculty, and administration for the good of my students. 
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Along with teaching senior and junior English/Language Arts, I also teach ENGL 1010 and ENGL 2200 concurrently (credit issues through Utah State University), which I teach live at SJH, but also broadcast to other high schools in the district. I am also the current Sterling Scholar Advisor. 
 
-**That Other Job You Had**
+**English Teacher | Emery School District (2015 - 2021**
 
-Also with a short description.
+Responsibilities: 
 
-Technical Experience
+During my time in Emery District I taught every grade 7-12.  I spent 1 year as a middle school language arts teacher, and then was asked to move up with the 9th grade class to the high school my second year as they restructured the high school to include 9-12th grades. After I earned my MEd, I was asked to start teaching Concurrent Enrollment classes, which I taught (along with other high school ELA classes) at the high school for 3 years before I relocated to Blanding. During my time at EHS I was also the English Department Head, the Professional Learning Community (PLC) leader, the co-advisor for the National Honor Society, and the Secondary Literacy Director. 
+
+**English Teacher | Pinnacle High School (2011 - 2014)**
+
+Responsibilities:
+
+- Planning and teaching lessons aligned with the common core.  
+- Grading student assignments.  
+- Corresponding with parents.  
+- Maintaining a classroom website and calendar.  
+- Collaborating with colleagues, parents, and administration concerning specific students.  
+- Yearbook and journalism advisor.
+- Google Apps for Education administrator for the school.  
+- Website design and maintenance, email account administration, troubleshooting, and training.
+
+
+References
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Nikki Safrit
+:   nsafrit@sjsd.org
+    435-459-3600
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Steven Gordon - Principal, Emery High School
+:   steveng@emeryschools.org
+    435-381-2689
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+Diane Carter - Colleague and Mentor, Emery High School
+:   dcdianecarter@gmail.com
+    435-820-0843
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
@@ -94,5 +89,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <shandawinget@gmail.com> • (435) 691-4547 \
+> 140 W 500 S, Blanding, UT 84511
