@@ -13,7 +13,7 @@ Education
 2015-2017
 :   **Master's Degree**; Western Governors University (Salt Lake City, UT)
 
-    *Master of Education in Teaching English*
+    *Master of Education in Teaching English* \
     Capstone project focused on successful reading intervention programs for students in low socio-economic, rural areas who do not qualify for for IEP services.
 
 2007-2009
@@ -62,17 +62,17 @@ Responsibilities:
 References
 --------------------
 
-John Engler
-:   john.engler@usu.edu
-    435-535-1323
+- John Engler
+	- john.engler@usu.edu
+	- 435-535-1323
 
-Steven Gordon - Principal, Emery High School
-:   steveng@emeryschools.org
-    435-381-2689
+- Steven Gordon - Principal, Emery High School
+	- steveng@emeryschools.org
+	- 435-381-2689
 
-Diane Carter - Colleague and Mentor, Emery High School
-:   dcdianecarter@gmail.com
-    435-820-0843
+- Diane Carter - Colleague and Mentor, Emery High School
+	- dcdianecarter@gmail.com
+	- 435-820-0843
 
 ----
 
